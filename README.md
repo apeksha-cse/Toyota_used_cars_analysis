@@ -13,7 +13,6 @@ The analysis includes:
 - Correlation Analysis
 - Business Insights
 
----
 
 ## Dataset
 
@@ -30,7 +29,6 @@ The dataset contains information about **1,436 Toyota used cars** with features 
 - Doors
 - Weight
 
----
 
 ## Technologies Used
 
@@ -41,7 +39,6 @@ The dataset contains information about **1,436 Toyota used cars** with features 
 - Seaborn
 - Google Colab
 
----
 
 ## Exploratory Data Analysis
 
@@ -55,7 +52,6 @@ The following analyses were performed:
 - Price vs Horsepower
 - Correlation Heatmap
 
----
 
 ## Key Insights
 
@@ -65,14 +61,12 @@ The following analyses were performed:
 - Higher mileage is associated with lower selling prices.
 - Age has the strongest negative correlation with price.
 
----
 
 ## Future Improvements
 
 - Build a Machine Learning model for price prediction.
 - Create an interactive dashboard using Power BI.
 
----
 
 ## Author
 
